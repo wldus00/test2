@@ -26,5 +26,3 @@ out/
 /.nb-gradle/
 ### VS Code ###
 .vscode/
-
-# 커밋이 된 파일을 수정하여 다시 커밋하기 실습
